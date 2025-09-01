@@ -9,6 +9,6 @@ This project focuses on analyzing airline performance data using **Power BI**.  
 - Final interactive dashboard published to Power BI Service
 
 ## Files in this Repository
-- `Project.pbix` → Power BI project file
-- `Airline-Data-Management-and-Analysis.pdf` → Project report
-- `Screenshots/` → Dashboard previews
+- Project.pbix - Power BI project file
+- Airline-Data-Management-and-Analysis.pdf - Project report
+- Screenshots - Dashboard previews
